@@ -7,7 +7,7 @@ int main()
     int arr1[4] = {1, 3, 4, 9}; // declaration of array
     int arr2[4] = {9, 4, 1, 3}; // declaration of array
     for (int i = 0; i < 4; i++)
-    { // logic of sorting th array
+    { // logic of sorting the array
         for (int j = 0; j < 4; j++)
         {
             if (arr1[i] > arr1[j])
