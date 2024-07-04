@@ -3,8 +3,8 @@
 using namespace std;
 int main()
 {
-    int arr[6] = {1, 2, 5, 2, 4, 5};
-    int n = 6, i, j;
+    int arr[6] = {1, 2, 5, 2, 4, 5}; // declaration
+    int n = 6, i, j;                 // declaration
     for (int i = 0; i < n; i++)
     { // condition for remove the duplicate element
         for (int j = i + 1; j < n; j++)
