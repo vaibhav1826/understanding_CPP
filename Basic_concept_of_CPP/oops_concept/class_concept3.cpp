@@ -11,6 +11,7 @@ public:    // accessing an public member
     { // default constructor
         cout << "the name of student now can be register ";
     }
+    // parameterised constructor
     student(int x)
     {
         cout << "the student register no  : ";
