@@ -18,10 +18,12 @@ public:
 
 class b : public a
 {
+
 }; // formationof first sub class
 
 class c : public a
 {
+
 }; // formation of second sub class
 
 int main()
