@@ -7,8 +7,11 @@ int main()
     int arr[4] = {10, 20, 30, 40}; // initialising an array
     // printing elements of array
     cout << arr[0] << endl; // element at index 0
+
     cout << arr[1] << endl; // element at index 1
+
     cout << arr[2] << endl; // element at index 2
+
     cout << arr[3] << endl; // element at index 3
 
     // print sum of all element of array
